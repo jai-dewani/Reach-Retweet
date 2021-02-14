@@ -1,9 +1,9 @@
-# Reach-Retweet
 [![built with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/jai-dewani/)
+# Reach-Retweet
 
 This bot has one job: To retweet your yesterday's tweet so they can live a little longer on your followers timeline. 
 
-# Here is how you can try this yourself 
+## Here is how you can try this yourself 
 
 - Clone this repo 
 
